@@ -1,0 +1,6 @@
+{
+  "type": "azure",
+  "endpoint": "[your Azure OpenAI endpoint URL]",
+  "apikey": "[your API KEY]",
+  "DeploymentName": "[Your deployment model name, Deploy model Turbo3.5]"
+}
